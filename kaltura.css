@@ -1,9 +1,9 @@
-a.playkit-advanced-captions-menu-link {
-	display: none;
-}
 .playkit-player .playkit-bottom-bar {
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%);
 }
 .playkit-player .playkit-control-button {
 	display: flex;
+}
+.playkit-player .playkit-control-button-container {
+	line-height: 32px;
 }
