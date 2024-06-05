@@ -1,3 +1,6 @@
 a.playkit-advanced-captions-menu-link {
 	display: none;
 }
+.playkit-player .playkit-bottom-bar {
+	background: rgba(0, 0, 0, 0.8);
+}
